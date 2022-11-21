@@ -1,0 +1,92 @@
+.heads {
+    display: flex;
+    color: black;
+    /* background-color: bisque; */
+    justify-content: space-between;
+    font-size: medium;
+    flex-direction: column;
+
+
+
+}
+
+.head_1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lang {
+    width: 400px;
+}
+
+.anchors {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-around;
+    font-size: medium;
+    align-items: center;
+
+}
+
+.anchors div a {
+    padding: 5px;
+    text-decoration: none;
+    font-size: small;
+    color: black;
+    font-weight: bold;
+
+}
+
+.text_ {
+    font-size: small;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.lang a {
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+.app_logos
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+.heads_2 {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+}
+.search_bar input{
+    width: 400px;
+}
+.contact 
+{
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.contact_text 
+{
+    padding: 0px;
+}
+    
